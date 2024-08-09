@@ -7,7 +7,7 @@ Date:     November 3 2020
  This is a gameplay version.
 
 ---- CREDITS ---------------------------------------------------
-  
+
 Map created by Gucior.
 
 ---- LICENSE ---------------------------------------------------
